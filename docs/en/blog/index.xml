@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Language Chatbot AI</title>
-    <link>http://localhost:64003/en/blog/</link>
+    <link>https://languagechatbot.ru/en/blog/</link>
     <description>Recent content in Blogs on Language Chatbot AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 10:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:64003/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://languagechatbot.ru/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI is Transforming Language Learning in 2025</title>
-      <link>http://localhost:64003/en/blog/ai-language-learning-2025/</link>
+      <link>https://languagechatbot.ru/en/blog/ai-language-learning-2025/</link>
       <pubDate>Tue, 07 Jan 2025 10:00:00 +0300</pubDate>
-      <guid>http://localhost:64003/en/blog/ai-language-learning-2025/</guid>
+      <guid>https://languagechatbot.ru/en/blog/ai-language-learning-2025/</guid>
       <description>&lt;p&gt;Artificial intelligence is revolutionizing the way we learn foreign languages. In 2025, AI technologies have reached a level where they can provide a personalized learning approach for every student.&lt;/p&gt;&#xA;&lt;h2 id=&#34;benefits-of-ai-in-language-learning&#34;&gt;Benefits of AI in Language Learning&lt;/h2&gt;&#xA;&lt;p&gt;Modern AI chatbots, such as Language Chatbot AI, offer several key advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personalization&lt;/strong&gt;: AI adapts the complexity and topics of dialogues to your level&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;24/7 Availability&lt;/strong&gt;: Practice anytime, day or night&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Safe Environment&lt;/strong&gt;: Don&amp;rsquo;t be afraid to make mistakes - AI creates a comfortable learning atmosphere&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instant Feedback&lt;/strong&gt;: Get corrections and advice in real-time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How Does It Work?&lt;/h2&gt;&#xA;&lt;p&gt;Language Chatbot AI uses advanced language models to create natural conversations. The system analyzes your responses, identifies areas for improvement, and automatically adjusts the difficulty.&lt;/p&gt;</description>
     </item>
   </channel>
