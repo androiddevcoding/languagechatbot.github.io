@@ -4,6 +4,7 @@ defaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = false
 theme = "apsho"
 enableRobotsTXT = true
+publishDir = "docs"
 
 # Languages
 [languages]
