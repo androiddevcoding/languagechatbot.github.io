@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language Chatbot AI</title>
-    <link>http://localhost:51814/en/</link>
+    <link>https://languagechatbot.ru/en/</link>
     <description>Recent content on Language Chatbot AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2025 10:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:51814/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://languagechatbot.ru/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI is Transforming Language Learning in 2025</title>
-      <link>http://localhost:51814/en/blog/ai-language-learning-2025/</link>
+      <link>https://languagechatbot.ru/en/blog/ai-language-learning-2025/</link>
       <pubDate>Tue, 07 Jan 2025 10:00:00 +0300</pubDate>
-      <guid>http://localhost:51814/en/blog/ai-language-learning-2025/</guid>
+      <guid>https://languagechatbot.ru/en/blog/ai-language-learning-2025/</guid>
       <description>&lt;p&gt;Artificial intelligence is revolutionizing the way we learn foreign languages. In 2025, AI technologies have reached a level where they can provide a personalized learning approach for every student.&lt;/p&gt;&#xA;&lt;h2 id=&#34;benefits-of-ai-in-language-learning&#34;&gt;Benefits of AI in Language Learning&lt;/h2&gt;&#xA;&lt;p&gt;Modern AI chatbots, such as Language Chatbot AI, offer several key advantages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personalization&lt;/strong&gt;: AI adapts the complexity and topics of dialogues to your level&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;24/7 Availability&lt;/strong&gt;: Practice anytime, day or night&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Safe Environment&lt;/strong&gt;: Don&amp;rsquo;t be afraid to make mistakes - AI creates a comfortable learning atmosphere&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instant Feedback&lt;/strong&gt;: Get corrections and advice in real-time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-does-it-work&#34;&gt;How Does It Work?&lt;/h2&gt;&#xA;&lt;p&gt;Language Chatbot AI uses advanced language models to create natural conversations. The system analyzes your responses, identifies areas for improvement, and automatically adjusts the difficulty.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:51814/en/privacy/</link>
+      <link>https://languagechatbot.ru/en/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51814/en/privacy/</guid>
+      <guid>https://languagechatbot.ru/en/privacy/</guid>
       <description>&lt;p&gt;Language Chatbot AI respects your privacy. This Privacy Policy applies to our application and website (hereinafter referred to as the &amp;ldquo;Service&amp;rdquo;). We are committed to protecting any personal information you may provide to us while using the Service.&lt;/p&gt;&#xA;&lt;h2 id=&#34;information-collection&#34;&gt;Information Collection&lt;/h2&gt;&#xA;&lt;p&gt;Our application collects minimal information necessary to provide services:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Authentication data (if applicable)&lt;/li&gt;&#xA;&lt;li&gt;Chatbot interaction data to improve service quality&lt;/li&gt;&#xA;&lt;li&gt;Technical data about app usage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;use-of-information&#34;&gt;Use of Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected information to:&lt;/p&gt;</description>
     </item>
   </channel>

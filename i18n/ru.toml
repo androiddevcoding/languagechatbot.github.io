@@ -1,42 +1,50 @@
-[get_in_touch]
-other = "Все статьи"
 [see_all_posts]
+other = "Все статьи"
 
-other = "Скачать в"
-[available_on]
-
-other = "Попробовать бесплатно"
-[try_it_free]
-
-other = "Контакты"
-[address]
-
-other = "Карта сайта"
-[sitemap]
-
-other = "Все права защищены"
-[all_rights_reserved]
-
-other = "Читать далее"
-[read_more]
-
-other = "Контакты"
-[contact]
-
-other = "Блог"
-[blog]
-
-other = "Возможности"
-[features]
-
-other = "Главная"
-[home]
-
-other = "Введите ваш E-mail"
-[enter_email]
-
-other = "Подписаться"
-[subscribe]
-
+[get_in_touch]
 other = "Связаться"
+
+[available_on]
+other = "Скачать в"
+
+[try_it_free]
+other = "Попробовать бесплатно"
+
+[address]
+other = "Контакты"
+
+[sitemap]
+other = "Карта сайта"
+
+[all_rights_reserved]
+other = "Все права защищены."
+
+[read_more]
+other = "Читать далее"
+
+[contact]
+other = "Контакты"
+
+[blog]
+other = "Блог"
+
+[features]
+other = "Возможности"
+
+[home]
+other = "Главная"
+
+[enter_email]
+other = "Введите ваш E-mail"
+
+[subscribe]
+other = "Подписаться"
+
+[footer_tagline]
+other = "Изучайте языки с AI без ограничений"
+
+[have_questions]
+other = "Есть вопросы?"
+
+
 

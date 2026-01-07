@@ -81,8 +81,12 @@ weight = 3
 # Footer Address
 [params.address]
 address = ""
-email = "support@languagechatbot.ru"
+email = "codingpas@gmail.com"
 phone = ""
+
+# Footer settings
+[params.footer]
+email = "codingpas@gmail.com"
 
 # Footer Social (оставь пустым или заполни своими ссылками)
 [params.social]
