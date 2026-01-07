@@ -1,0 +1,78 @@
+# MAIN base
+baseURL = "http://localhost:1313/"
+languageCode = "ru-ru"
+title = "Language Chatbot AI"
+theme = "apsho"
+enableRobotsTXT = true
+
+# Navigation Bar
+[[menu.main]]
+name = "Главная"
+url = "#hero"
+weight = 1
+[[menu.main]]
+name = "Возможности"
+url = "#feature"
+weight = 2
+[[menu.main]]
+name = "FAQ"
+url = "#faq"
+weight = 3
+[[menu.main]]
+name = "Скачать в RuStore"
+url = "https://www.rustore.ru/catalog/app/com.buddy.chat"
+weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+name = "Главная"
+url = "#hero"
+weight = 1
+[[menu.sitemap]]
+name = "Возможности"
+url = "#feature"
+weight = 2
+[[menu.sitemap]]
+name = "FAQ"
+url = "#faq"
+weight = 3
+[[menu.sitemap]]
+name = "RuStore"
+url = "https://www.rustore.ru/catalog/app/com.buddy.chat"
+weight = 4
+
+# Footer Address
+[params.address]
+address = ""
+email = "support@languagechatbot.ru"
+phone = ""
+
+# Footer Social (оставь пустым или заполни своими ссылками)
+[params.social]
+facebook = ""
+twitter = ""
+github = ""
+
+[params]
+# Header
+logo = "images/logo.png"
+
+# Contact form (если не используешь - оставь пустым)
+fabFormURL = ""
+
+# Analytics (если не используешь - оставь пустым)
+googleAnalytics = ""
+
+# App links
+[params.app]
+name = "Language Chatbot AI"
+package = "com.buddy.chat"
+rustoreURL = "https://www.rustore.ru/catalog/app/com.buddy.chat"
+
+# Footer
+footerTitle = "Получайте новости и обновления приложения"
+copyright1 = "Все права защищены"
+copyright2 = "Copyright © {year} <a href=\"https://languagechatbot.ru/\" target=\"_blank\">languagechatbot.ru</a>"
+
+# contact
+email = "support@languagechatbot.ru"

@@ -1,0 +1,17 @@
+---
+enable: true
+title: Преимущества приложения
+services:
+  - icon: ti-settings
+    title: Без настройки
+    description: Начните использовать сразу после установки
+
+  - icon: ti-check-box
+    title: Бесплатно
+    description: Базовые функции доступны без оплаты
+
+  - icon: ti-key
+    title: Быстрый доступ
+    description: Практикуйте язык в любое время
+
+

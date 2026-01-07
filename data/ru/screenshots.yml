@@ -1,0 +1,14 @@
+---
+enable: true
+title: Скриншоты приложения
+description: Посмотрите, как выглядит Language Chatbot AI
+
+images:
+  - url: images/screenshots/slider1.png
+  - url: images/screenshots/slider2.png
+  - url: images/screenshots/slider3.png
+  - url: images/screenshots/slider4.png
+  - url: images/screenshots/slider5.png
+  - url: images/screenshots/slider3.png
+
+

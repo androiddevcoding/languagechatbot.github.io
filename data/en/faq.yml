@@ -1,0 +1,25 @@
+---
+enable: true
+title: Frequently Asked Questions
+description: Answers to common questions about Language Chatbot AI. Learn more about the app's features and how to start learning languages.
+faqItem:
+  - question: How to install Language Chatbot AI?
+    answer: Download the app from RuStore, install it on your Android device and sign up. After that, you can immediately start practicing the language with an AI assistant.
+    dataTarget: One
+    show: show
+
+  - question: Is the app free?
+    answer: Basic app features are available for free. You can practice conversational language, get corrections and improve your skills without payment.
+    dataTarget: Two
+    show:
+
+  - question: What languages are supported?
+    answer: Language Chatbot AI supports learning English, German, French, Spanish and other popular languages. The list of languages is constantly expanding.
+    dataTarget: Three
+    show:
+
+  - question: Is internet connection required?
+    answer: Yes, an internet connection is required to work with the AI assistant. This allows us to use the most advanced language models for the highest quality learning.
+    dataTarget: Four
+    show:
+

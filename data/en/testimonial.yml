@@ -1,0 +1,20 @@
+---
+enable: true
+title: What Users Say
+description: Reviews from our Language Chatbot AI users
+comments:
+  - text: Great app for practicing conversational language! The AI assistant really helps overcome the language barrier and feel more confident.
+    name: Alexander
+    designation: Student
+    image: images/client/client-2.png
+
+  - text: I use the app every day on my way to work. Very convenient to practice English in any free time.
+    name: Maria
+    designation: Manager
+    image: images/client/client-1.png
+
+  - text: Finally found a way to practice conversational language without embarrassment. AI doesn't judge mistakes, but helps correct them.
+    name: Dmitry
+    designation: Developer
+    image: images/client/client-3.png
+

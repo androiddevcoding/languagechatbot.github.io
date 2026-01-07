@@ -1,0 +1,42 @@
+[get_in_touch]
+other = "Get in touch"
+
+[subscribe]
+other = "Subscribe"
+
+[enter_email]
+other = "Enter Your E-mail"
+
+[home]
+other = "Home"
+
+[features]
+other = "Features"
+
+[blog]
+other = "Blog"
+
+[contact]
+other = "Contact"
+
+[read_more]
+other = "Read more"
+
+[all_rights_reserved]
+other = "All rights reserved"
+
+[sitemap]
+other = "Sitemap"
+
+[address]
+other = "Contact"
+
+[try_it_free]
+other = "Try It Free"
+
+[available_on]
+other = "Download on"
+
+[see_all_posts]
+other = "See all posts"
+

@@ -1,0 +1,16 @@
+---
+enable: true
+title: App Benefits
+services:
+  - icon: ti-settings
+    title: No Setup
+    description: Start using right after installation
+
+  - icon: ti-check-box
+    title: Free
+    description: Basic features available without payment
+
+  - icon: ti-key
+    title: Quick Access
+    description: Practice language anytime
+
