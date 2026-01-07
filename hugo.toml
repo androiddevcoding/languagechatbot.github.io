@@ -35,10 +35,6 @@ weight = 2
 name = "FAQ"
 url = "#faq"
 weight = 3
-[[languages.ru.menu.main]]
-name = "Скачать в RuStore"
-url = "https://www.rustore.ru/catalog/app/com.buddy.chat"
-weight = 4
 
 # Navigation Bar (English)
 [[languages.en.menu.main]]
@@ -53,10 +49,6 @@ weight = 2
 name = "FAQ"
 url = "#faq"
 weight = 3
-[[languages.en.menu.main]]
-name = "Download on RuStore"
-url = "https://www.rustore.ru/catalog/app/com.buddy.chat"
-weight = 4
 
 # Footer Sitemap (Russian)
 [[languages.ru.menu.sitemap]]
@@ -71,10 +63,6 @@ weight = 2
 name = "FAQ"
 url = "#faq"
 weight = 3
-[[languages.ru.menu.sitemap]]
-name = "RuStore"
-url = "https://www.rustore.ru/catalog/app/com.buddy.chat"
-weight = 4
 
 # Footer Sitemap (English)
 [[languages.en.menu.sitemap]]
@@ -89,10 +77,6 @@ weight = 2
 name = "FAQ"
 url = "#faq"
 weight = 3
-[[languages.en.menu.sitemap]]
-name = "RuStore"
-url = "https://www.rustore.ru/catalog/app/com.buddy.chat"
-weight = 4
 
 # Footer Address
 [params.address]
