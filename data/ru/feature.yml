@@ -9,8 +9,8 @@ button2text: Google Play
 buttonText: Попробовать бесплатно
 Title2nd: Изучение языка начинается с реальной практики
 description2nd: Мы верим, что лучший способ выучить язык - это практиковать его в реальных ситуациях. Наш чат-бот создаёт естественные диалоги, которые помогают вам чувствовать себя уверенно в любой ситуации.
-image1: images/feature/feature-illustration-one.svg
-image2: images/feature/feature-illustration-two.svg
+image1: images/feature/feature-illustration-one.png
+image2: images/feature/feature-illustration-two.png
 checkItem:
   - text: Персонализированный подход к обучению
   - text: Практика в удобное для вас время

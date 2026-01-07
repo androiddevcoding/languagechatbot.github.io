@@ -9,8 +9,8 @@ button2text: Google Play
 buttonText: Try It Free
 Title2nd: Language learning starts with real practice
 description2nd: We believe that the best way to learn a language is to practice it in real situations. Our chatbot creates natural dialogues that help you feel confident in any situation.
-image1: images/feature/feature-illustration-one.svg
-image2: images/feature/feature-illustration-two.svg
+image1: images/feature/feature-illustration-one.png
+image2: images/feature/feature-illustration-two.png
 checkItem:
   - text: Personalized approach to learning
   - text: Practice at your convenience

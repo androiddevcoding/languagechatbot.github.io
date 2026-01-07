@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://languagechatbot.ru/en/blog/</loc>
+    <loc>http://localhost:51814/en/blog/</loc>
     <lastmod>2025-01-07T10:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://languagechatbot.ru/blog/"
+                href="http://localhost:51814/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://languagechatbot.ru/en/blog/"
+                href="http://localhost:51814/en/blog/"
                 />
   </url><url>
-    <loc>https://languagechatbot.ru/en/blog/ai-language-learning-2025/</loc>
+    <loc>http://localhost:51814/en/blog/ai-language-learning-2025/</loc>
     <lastmod>2025-01-07T10:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://languagechatbot.ru/blog/ai-language-learning-2025/"
+                href="http://localhost:51814/blog/ai-language-learning-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://languagechatbot.ru/en/blog/ai-language-learning-2025/"
+                href="http://localhost:51814/en/blog/ai-language-learning-2025/"
                 />
   </url><url>
-    <loc>https://languagechatbot.ru/en/</loc>
+    <loc>http://localhost:51814/en/</loc>
     <lastmod>2025-01-07T10:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://languagechatbot.ru/"
+                href="http://localhost:51814/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://languagechatbot.ru/en/"
+                href="http://localhost:51814/en/"
                 />
   </url><url>
-    <loc>https://languagechatbot.ru/en/categories/</loc>
+    <loc>http://localhost:51814/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://languagechatbot.ru/categories/"
+                href="http://localhost:51814/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://languagechatbot.ru/en/categories/"
+                href="http://localhost:51814/en/categories/"
                 />
   </url><url>
-    <loc>https://languagechatbot.ru/en/privacy/</loc>
+    <loc>http://localhost:51814/en/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://languagechatbot.ru/privacy/"
+                href="http://localhost:51814/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://languagechatbot.ru/en/privacy/"
+                href="http://localhost:51814/en/privacy/"
                 />
   </url><url>
-    <loc>https://languagechatbot.ru/en/tags/</loc>
+    <loc>http://localhost:51814/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://languagechatbot.ru/tags/"
+                href="http://localhost:51814/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://languagechatbot.ru/en/tags/"
+                href="http://localhost:51814/en/tags/"
                 />
   </url>
 </urlset>

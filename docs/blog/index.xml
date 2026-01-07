@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Language Chatbot AI</title>
-    <link>https://languagechatbot.ru/blog/</link>
+    <link>http://localhost:51814/blog/</link>
     <description>Recent content in Blogs on Language Chatbot AI</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Tue, 07 Jan 2025 10:00:00 +0300</lastBuildDate>
-    <atom:link href="https://languagechatbot.ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51814/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как AI меняет изучение языков в 2025 году</title>
-      <link>https://languagechatbot.ru/blog/ai-language-learning-2025/</link>
+      <link>http://localhost:51814/blog/ai-language-learning-2025/</link>
       <pubDate>Tue, 07 Jan 2025 10:00:00 +0300</pubDate>
-      <guid>https://languagechatbot.ru/blog/ai-language-learning-2025/</guid>
-      <description>&lt;p&gt;Искусственный интеллект революционизирует способ изучения иностранных языков. В 2025 году технологии AI достигли такого уровня, что могут обеспечить персонализированный подход к обучению для каждого студента.&lt;/p&gt;&#xA;&lt;h2 id=&#34;преимущества-ai-в-изучении-языков&#34;&gt;Преимущества AI в изучении языков&lt;/h2&gt;&#xA;&lt;p&gt;Современные AI-чат-боты, такие как Language Chatbot AI, предлагают несколько ключевых преимуществ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Персонализация&lt;/strong&gt;: AI адаптирует сложность и темы диалогов под ваш уровень&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Доступность 24/7&lt;/strong&gt;: Практикуйтесь в любое время дня и ночи&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Безопасная среда&lt;/strong&gt;: Не бойтесь делать ошибки - AI создаёт комфортную обстановку для обучения&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мгновенная обратная связь&lt;/strong&gt;: Получайте исправления и советы в реальном времени&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://languagechatbot.ru/images/blog/single-blog-1.jpg&#34; alt=&#34;AI Language Learning&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:51814/blog/ai-language-learning-2025/</guid>
+      <description>&lt;p&gt;Искусственный интеллект революционизирует способ изучения иностранных языков. В 2025 году технологии AI достигли такого уровня, что могут обеспечить персонализированный подход к обучению для каждого студента.&lt;/p&gt;&#xA;&lt;h2 id=&#34;преимущества-ai-в-изучении-языков&#34;&gt;Преимущества AI в изучении языков&lt;/h2&gt;&#xA;&lt;p&gt;Современные AI-чат-боты, такие как Language Chatbot AI, предлагают несколько ключевых преимуществ:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Персонализация&lt;/strong&gt;: AI адаптирует сложность и темы диалогов под ваш уровень&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Доступность 24/7&lt;/strong&gt;: Практикуйтесь в любое время дня и ночи&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Безопасная среда&lt;/strong&gt;: Не бойтесь делать ошибки - AI создаёт комфортную обстановку для обучения&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мгновенная обратная связь&lt;/strong&gt;: Получайте исправления и советы в реальном времени&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:51814/images/blog/single-blog-1.jpg&#34; alt=&#34;AI Language Learning&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
