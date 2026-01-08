@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Language Chatbot AI</title>
-    <link>http://localhost:59103/en/</link>
+    <link>http://localhost:64239/en/</link>
     <description>Recent content on Language Chatbot AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:59103/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64239/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:59103/en/blog/ai-language-learning-2025/</link>
+      <link>http://localhost:64239/en/blog/ai-language-learning-2025/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate>
-      <guid>http://localhost:59103/en/blog/ai-language-learning-2025/</guid>
+      <guid>http://localhost:64239/en/blog/ai-language-learning-2025/</guid>
       <description>&lt;p&gt;This Privacy Policy describes the procedures for collecting, using, storing, and protecting information of users of the Language Chatbot website and application (hereinafter referred to as the &amp;ldquo;Service&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Contact for questions regarding personal data processing:&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:codingpas@gmail.com&#34;&gt;codingpas@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-general-provisions&#34;&gt;1. General Provisions&lt;/h2&gt;&#xA;&lt;p&gt;1.1. By using the Service, the user confirms their agreement with this Privacy Policy.&lt;/p&gt;&#xA;&lt;p&gt;1.2. If the user disagrees with the terms of the Policy, they must stop using the Service.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:59103/en/privacy/</link>
+      <link>http://localhost:64239/en/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59103/en/privacy/</guid>
+      <guid>http://localhost:64239/en/privacy/</guid>
       <description>&lt;p&gt;Language Chatbot AI respects your privacy. This Privacy Policy applies to our application and website (hereinafter referred to as the &amp;ldquo;Service&amp;rdquo;). We are committed to protecting any personal information you may provide to us while using the Service.&lt;/p&gt;&#xA;&lt;h2 id=&#34;information-collection&#34;&gt;Information Collection&lt;/h2&gt;&#xA;&lt;p&gt;Our application collects minimal information necessary to provide services:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Authentication data (if applicable)&lt;/li&gt;&#xA;&lt;li&gt;Chatbot interaction data to improve service quality&lt;/li&gt;&#xA;&lt;li&gt;Technical data about app usage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;use-of-information&#34;&gt;Use of Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected information to:&lt;/p&gt;</description>
     </item>
   </channel>
