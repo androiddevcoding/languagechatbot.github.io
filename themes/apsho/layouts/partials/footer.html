@@ -1,0 +1,35 @@
+<footer class="footer footer-simple">
+  <div class="footer-bg-wrapper">
+    <img src="{{ "images/footer/footer-bg.svg" | absURL }}" alt="" class="footer-bg-image">
+  </div>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <div class="footer-brand">
+          <h3 class="footer-title">{{ .Site.Params.app.name | default "Language Chatbot AI" }}</h3>
+          <p class="footer-tagline">{{ i18n "footer_tagline" | default "Изучайте языки с AI без ограничений" }}</p>
+          <p class="footer-copyright">© {{ now.Year }}. {{ i18n "all_rights_reserved" | default "Все права защищены." }}</p>
+        </div>
+
+        <nav class="footer-nav">
+          {{ $sitemap := .Site.Menus.sitemap }}
+          {{ range $index, $item := $sitemap }}{{ if $index }} · {{ end }}<a href="{{ .URL | absURL }}">{{ .Name }}</a>{{ end }}
+        </nav>
+
+        <div class="footer-contact">
+          <p class="footer-contact-title">{{ i18n "have_questions" | default "Есть вопросы?" }}</p>
+          <a href="mailto:{{ .Site.Params.footer.email | default .Site.Params.address.email | default "codingpas@gmail.com" }}" class="footer-email">{{ .Site.Params.footer.email | default .Site.Params.address.email | default "codingpas@gmail.com" }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ $style := resources.Get "scss/non-critical.scss" | css.Sass | minify }}
+<link href="{{ $style.Permalink }}" rel="stylesheet" />
+{{ $vendor := resources.Get "js/vendor.js" | minify }}
+<script src="{{ $vendor.Permalink }}"></script>
+<!-- {{ $formhandler := resources.Get "js/form-handler.js" | minify }}
+<script src="{{ $formhandler.Permalink }}"></script> -->
+{{ $script := resources.Get "js/script.js" | minify }}
+<script src="{{ $script.Permalink }}"></script>

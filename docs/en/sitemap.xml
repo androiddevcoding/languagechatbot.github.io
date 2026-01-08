@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65286/en/blog/</loc>
+    <loc>http://localhost:65395/en/blog/</loc>
     <lastmod>2026-01-01T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:65286/blog/"
+                href="http://localhost:65395/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:65286/en/blog/"
+                href="http://localhost:65395/en/blog/"
                 />
   </url><url>
-    <loc>http://localhost:65286/en/</loc>
+    <loc>http://localhost:65395/en/</loc>
     <lastmod>2026-01-01T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:65286/"
+                href="http://localhost:65395/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:65286/en/"
+                href="http://localhost:65395/en/"
                 />
   </url><url>
-    <loc>http://localhost:65286/en/blog/ai-language-learning-2025/</loc>
+    <loc>http://localhost:65395/en/blog/ai-language-learning-2025/</loc>
     <lastmod>2026-01-01T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:65286/blog/ai-language-learning-2025/"
+                href="http://localhost:65395/blog/ai-language-learning-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:65286/en/blog/ai-language-learning-2025/"
+                href="http://localhost:65395/en/blog/ai-language-learning-2025/"
                 />
   </url><url>
-    <loc>http://localhost:65286/en/categories/</loc>
+    <loc>http://localhost:65395/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:65286/categories/"
+                href="http://localhost:65395/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:65286/en/categories/"
+                href="http://localhost:65395/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:65286/en/privacy/</loc>
+    <loc>http://localhost:65395/en/privacy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:65286/privacy/"
+                href="http://localhost:65395/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:65286/en/privacy/"
+                href="http://localhost:65395/en/privacy/"
                 />
   </url><url>
-    <loc>http://localhost:65286/en/tags/</loc>
+    <loc>http://localhost:65395/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:65286/tags/"
+                href="http://localhost:65395/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:65286/en/tags/"
+                href="http://localhost:65395/en/tags/"
                 />
   </url>
 </urlset>

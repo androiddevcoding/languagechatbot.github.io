@@ -1,0 +1,140 @@
+{{ $lang := .Site.Language.Lang }}
+{{ $data := index .Site.Data $lang }}
+{{ with $data.feature }}
+  {{ if .enable }}
+    <section class="feature" id="feature">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="feature-image">
+              <img
+                src="{{ "images/feature/feature-shape-01.svg" | relURL }}"
+                class="feature-image-shape1"
+                style="left: -25%; top: 10%;"
+                alt="feature-image-shape"
+              />
+              <img
+                src="{{ .image1 | relURL }}"
+                alt="feature-image"
+                style="width: 70%; height: auto;"
+              />
+              <img
+                src="{{ "images/feature/feature-shape-02.svg" | relURL }}"
+                style="right: -13%; top: 45%;"
+                class="feature-image-shape2"
+                alt="feature-image-shape"
+              />
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="feature-content ml-25">
+              <h2>
+                {{ .title }}
+              </h2>
+              <p>
+                {{ .description }}
+              </p>
+              <p>
+                {{ .description2 }}
+              </p>
+              <ul class="hero-content-buttons">
+                <li>
+                  <a href="https://www.rustore.ru/catalog/app/com.buddy.chat" class="btn-platform">
+                    <i>
+                      <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="29.719"
+                              height="36.367"
+                              viewBox="0 0 120 120"
+                              role="img"
+                              aria-label="RuStore"
+                      >
+                        <image
+                                href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/120px-RuStore_logo.svg.png"
+                                width="120"
+                                height="120"
+                                preserveAspectRatio="xMidYMid meet"
+                        />
+                      </svg>
+                    </i>
+                    <div class="btn-platform-area">
+                      <span> {{ .buttonName }} </span>
+                      {{ .button1text }}
+                    </div>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://play.google.com/store/apps/details?id=com.buddy.chat" class="btn-platform">
+                    <i>
+                      <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="32.812"
+                              height="36.367"
+                              viewBox="0 0 32.812 36.367"
+                      >
+                        <g data-name="Group 1130">
+                          <path
+                                  data-name="Path 1282"
+                                  d="M30.8 14.713L5.983.527A4 4 0 000 4v28.371a4 4 0 005.981 3.471L30.8 21.654a4 4 0 000-6.941zm-10.754-3.354l-3.407 4.746-8.15-11.352zm-16.2 22.569a1.552 1.552 0 01-.633-.2 1.578 1.578 0 01-.784-1.361V4a1.566 1.566 0 011.414-1.563l11.306 15.748zm4.645-2.313l8.15-11.353 3.407 4.746zM29.6 19.549l-7.434 4.249-4.032-5.615 4.032-5.615 7.434 4.25a1.573 1.573 0 010 2.732zm0 0"
+                          />
+                        </g>
+                      </svg>
+                    </i>
+                    <div class="btn-platform-area">
+                      <span> {{ .buttonName }} </span>
+                      {{ .button2text }}
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-lg-6 order-2 order-lg-1">
+            <div class="feature-content mr-25">
+              <h2>
+                {{ .Title2nd }}
+              </h2>
+              <p>
+                {{ .description2nd }}
+              </p>
+              <div class="feature-content-list">
+                <ul>
+                  {{ $Section := .checkItem }}
+                  {{ range $Section }}
+                    <li>
+                      <i class="ti-check"></i>
+                      <p> {{ .text }} </p>
+                    </li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2">
+            <div class="feature-image">
+              <img
+                src="{{ "images/feature/feature-shape-03.svg" | relURL }}"
+                class="feature-image-shape3"
+                style="right: -25%; top: 10%;"
+                alt="feature-image-shape"
+              />
+              <img
+                src="{{ .image2 | relURL }}"
+                alt="feature-image"
+                style="width: 70%; height: auto;"
+              />
+              <img
+                src="{{ "images/feature/feature-shape-04.svg" | relURL }}"
+                style="left: -20%; top: 42%;"
+                class="feature-image-shape4"
+                alt="feature-image-shape"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}

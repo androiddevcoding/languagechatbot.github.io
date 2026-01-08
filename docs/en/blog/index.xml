@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Language Chatbot AI</title>
-    <link>http://localhost:65286/en/blog/</link>
+    <link>http://localhost:65395/en/blog/</link>
     <description>Recent content in Blogs on Language Chatbot AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:65286/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65395/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:65286/en/blog/ai-language-learning-2025/</link>
+      <link>http://localhost:65395/en/blog/ai-language-learning-2025/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate>
-      <guid>http://localhost:65286/en/blog/ai-language-learning-2025/</guid>
+      <guid>http://localhost:65395/en/blog/ai-language-learning-2025/</guid>
       <description>&lt;p&gt;This Privacy Policy describes the procedures for collecting, using, storing, and protecting information of users of the Language Chatbot website and application (hereinafter referred to as the &amp;ldquo;Service&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;Contact for questions regarding personal data processing:&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:codingpas@gmail.com&#34;&gt;codingpas@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-general-provisions&#34;&gt;1. General Provisions&lt;/h2&gt;&#xA;&lt;p&gt;1.1. By using the Service, the user confirms their agreement with this Privacy Policy.&lt;/p&gt;&#xA;&lt;p&gt;1.2. If the user disagrees with the terms of the Policy, they must stop using the Service.&lt;/p&gt;</description>
     </item>
   </channel>
